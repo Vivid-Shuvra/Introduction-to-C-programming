@@ -58,7 +58,6 @@ scanf("%lf", &a);
 b=(a*3.1416)/180;
 l=cos(b);
 printf("COS is:cos(%lf)=%0.03lf", a,l); break;
-
 default :
     printf("MATH ERROR!!!!!!");
 
